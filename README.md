@@ -1,5 +1,5 @@
 # devstartfranciscojunior
-# Viagens Landing Page (Projeto TripMe)
+# Viagens Landing Page (Projeto ViageMe)
 
 Este projeto é uma landing page (página de aterrissagem) com tema de viagens, criada como um desafio para praticar conceitos fundamentais de HTML semântico e CSS moderno, incluindo a integração com frameworks de front-end como o Bootstrap.
 
